@@ -1,1 +1,27 @@
 GIT Commands
+
+git init
+
+git remote add origin
+
+git remote set-url origin
+
+git status
+
+git add
+
+git commit
+
+git push
+
+git pull
+
+git clone
+
+git merge
+
+git branch
+
+git checkout
+
+git diff
