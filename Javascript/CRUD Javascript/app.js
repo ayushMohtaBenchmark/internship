@@ -1,3 +1,5 @@
+getTableData();
+
 function getTableData() {
     var members = getMembers();
     if(members.length == 0) {
